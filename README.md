@@ -43,13 +43,6 @@ I am a DevOps enthusiast with hands-on experience in building and automating dep
 
 ---
 
-## 📊 GitHub Stats
-![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF)
-
----
-
 ## 🌱 Currently Learning
 - Advanced Kubernetes Concepts  
 - Infrastructure as Code (Terraform)  
