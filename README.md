@@ -14,32 +14,39 @@ I am a DevOps enthusiast with hands-on experience in building and automating dep
 ## 🚀 Technical Skills
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+- AWS  
+- Google Cloud Platform (GCP)
 
 ### 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-F2C744?style=for-the-badge&logo=jenkins&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarcloud&logoColor=white)
+- Jenkins  
+- Git & GitHub  
+- SonarQube  
 
 ### 📦 Containerization & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Docker  
+- Kubernetes  
 
 ### 📊 Monitoring & Logging
-![Datadog](https://img.shields.io/badge/Datadog-4B0082?style=for-the-badge&logo=datadog&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-FF681F?style=for-the-badge&logo=grafana&logoColor=white)
+- Datadog  
+- Grafana (Basic)  
 
 ### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+- Linux (Basic Administration)  
 
 ---
 
 ## 📂 Projects
-- ✅ CI/CD Pipeline using Jenkins  
-- ✅ Dockerized Application Deployment  
-- ✅ Kubernetes Deployment using YAML  
-- ✅ SonarQube Integration with Jenkins  
+1. **CI/CD Pipeline using Jenkins** – Implemented automated build and deployment pipelines.  
+2. **Dockerized Application Deployment** – Containerized web applications for consistent environments.  
+3. **Kubernetes Deployment using YAML** – Deployed applications with proper orchestration and scaling.  
+4. **SonarQube Integration with Jenkins** – Added code quality analysis and automated quality gates.  
+
+---
+
+## 📊 GitHub Stats
+![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF)
 
 ---
 
