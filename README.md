@@ -51,7 +51,7 @@ I am a DevOps enthusiast with hands-on experience in building and automating dep
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/gayatri-jadhav-85a017399)  
+- [LinkedIn] http://www.linkedin.com/in/gayatri-jadhav-85a017399  
 - ✉️ Email: gayatrijadhav4258@gmail.com 
 
 ---
